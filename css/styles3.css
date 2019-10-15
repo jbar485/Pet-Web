@@ -1,0 +1,35 @@
+h1 {
+  font-family: sans-serif;
+  color: red;
+  font-size: 100px
+}
+body {
+  background-color: white;
+}
+hr {
+  margin-top: 50px;
+}
+a {
+  font-family: fantasy;
+  color: red;
+  line-height: 15px;
+}
+p {
+  text-align: center;
+  line-height: 9px;
+}
+h3 {
+  font-weight: 1000;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 60px;
+}
+img {
+  width: 300px;
+  align-content: flex-end;
+  align-items: center;
+  border: 2mm ridge rgba(50, 50, 255, .25);
+  padding: 10px;
+
+}

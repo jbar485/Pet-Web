@@ -1,0 +1,8 @@
+img {
+  width: 300px;
+  align-content: flex-end;
+  align-items: center;
+  border: 2mm ridge rgba(50, 50, 255, .25);
+  padding: 10px;
+
+}

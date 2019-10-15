@@ -1,0 +1,27 @@
+h1 {
+  font-family: sans-serif;
+  color: red;
+  font-size: 100px
+}
+body {
+  background-color: white;
+}
+hr {
+  margin-top: 50px;
+}
+a {
+  font-family: fantasy;
+  color: red;
+  line-height: 15px;
+}
+p {
+  text-align: center;
+  line-height: 9px;
+}
+h3 {
+  font-weight: 1000;
+  font-family: sans-serif;
+}
+h2 {
+  font-size: 60px;
+}
